@@ -1,0 +1,31 @@
+WEB
+List
+http://localhost/php_exam/template/exam/index.php
+
+Add
+http://localhost/php_exam/template/exam/add.php
+
+View
+http://localhost/php_exam/template/exam/view.php?view_id=1
+
+Edit
+http://localhost/php_exam/template/exam/edit.php?view_id=1
+
+
+API
+
+
+LIST
+http://localhost/php_exam/template/exam/json/news.php/list
+
+GET
+http://localhost/php_exam/template/exam/json/news.php/get/1
+
+DELETE
+http://localhost/php_exam/template/exam/json/news.php/delete/1
+
+INSERT (POST)
+http://localhost/php_exam/template/exam/json/news.php/insert
+
+UPDATE (PUT / POST)
+http://localhost/php_exam/template/exam/json/news.php/update

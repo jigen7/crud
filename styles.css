@@ -1,0 +1,15 @@
+body {
+	padding-top: 50px;
+}
+
+#main-container {
+	margin-top:50px
+}
+
+.table tbody tr td {
+	padding-left:18px
+}
+
+.top-btn-container {
+	margin-top:8px
+}
